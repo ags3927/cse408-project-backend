@@ -1,0 +1,70 @@
+[
+    {
+    "name": "Workspace",
+    "className": "fa-laptop"
+    },
+    {
+    "name": "Wifi",
+    "className": "fa-wifi"
+    },
+    {
+    "name": "Parking",
+    "className": "fa-car"
+    },
+    {
+    "name": "Heat",
+    "className": "far fa-temperature-up"
+    },
+    {
+    "name": "Air Conditioning",
+    "className": "fa-air-conditioner"
+    },
+    {
+    "name": "Iron",
+    "className": "fa-hard-hat"
+    },
+    {
+    "name": "Shampoo",
+    "className": "fa-pump-soap"
+    },
+    {
+    "name": "Hair Dryer",
+    "className": "fa-wind"
+    },
+    {
+    "name": "Dryer",
+    "className": "fas fa-dryer"
+    },
+    {
+    "name": "Breakfast",
+    "className": "fa-utensils-alt"
+    },
+    {
+    "name": "Fireplace",
+    "className": "fas fa-fireplace"
+    },
+    {
+    "name": "Closet",
+    "className": "far fa-cabinet-filing"
+    },
+    {
+    "name": "Private Entrance",
+    "className": "far fa-door-open"
+    },
+    {
+    "name": "Smoke Detector",
+    "className": "far fa-sensor-fire"
+    },
+    {
+    "name": "Carbon Monoxide Detector",
+    "className": "fas fa-sensor-smoke"
+    },
+    {
+    "name": "First Aid Kit",
+    "className": "fa-medkit"
+    },
+    {
+    "name": "Fire Extinguisher",
+    "className": "fa-fire-extinguisher"
+    }
+    ]

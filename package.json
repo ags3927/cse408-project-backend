@@ -1,0 +1,28 @@
+{
+    "name": "backend-blux",
+    "version": "0.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node ./bin/www",
+        "dev": "nodemon ./bin/www"
+    },
+    "dependencies": {
+        "bcryptjs": "^2.4.3",
+        "cookie-parser": "~1.4.4",
+        "cors": "^2.8.5",
+        "debug": "~2.6.9",
+        "express": "~4.16.1",
+        "http-errors": "~1.6.3",
+        "jsonwebtoken": "^8.5.1",
+        "lodash": "^4.17.21",
+        "moment": "^2.29.1",
+        "moment-range": "^4.0.2",
+        "mongoose": "^5.12.12",
+        "morgan": "~1.9.1",
+        "sslcommerz-lts": "^1.0.1",
+        "stripe": "^8.165.0",
+        "url-regex-safe": "^2.0.2",
+        "validator": "^13.6.0"
+    },
+    "devDependencies": {}
+}

@@ -1,0 +1,38 @@
+[
+    {
+    "name": "Pets Live on Property",
+    "className": "fa-paw-alt"
+    },
+    {
+    "name": "No Alcohol",
+    "className": "fa-beer"
+    },
+    {
+    "name": "No Smoking",
+    "className": "fa-smoking"
+    },
+    {
+    "name": "Must Climb Stairs",
+    "className": "fa-level-up-alt"
+    },
+    {
+    "name": "Potential for Noise",
+    "className": "fa-volume-up"
+    },
+    {
+    "name": "No Parking on Property",
+    "className": "fa-parking-circle-slash"
+    },
+    {
+    "name": "Amenity Limitations",
+    "className": "fa-exclamation-circle"
+    },
+    {
+    "name": "Surveillance or Recording Devices",
+    "className": "fa-cctv"
+    },
+    {
+    "name": "Weapons on Property",
+    "className": "fa-bomb"
+    }
+    ]

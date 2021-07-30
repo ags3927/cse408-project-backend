@@ -1,0 +1,6 @@
+node_modules/
+views/
+.idea
+db_dump/
+.gcloudignore
+app.yaml
